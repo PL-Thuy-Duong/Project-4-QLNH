@@ -1,0 +1,58 @@
+0
+BM01
+Banh mi
+3500
+TP.HCM
+27/8/2022
+khong
+10
+1
+NN01
+Nuoc ngot
+10000
+Ha Noi
+27/8/2022
+khong
+15
+2
+S01
+Sach
+5000
+Khanh Hoa
+27/8/2022
+Vang
+17
+3
+V01
+Vo
+3000
+Son La
+27/8/2022
+Khong
+17
+4
+BB01
+But
+3500
+Thanh Hoa
+29/8/2022
+Xanh
+12
+5
+BC02
+But chi
+2500
+Thanh Hoa
+29/8/2022
+Xam
+11
+6
+CB01
+Comba
+5000
+Quang Ngai
+29/8/2022
+Do
+5
+-1
+
