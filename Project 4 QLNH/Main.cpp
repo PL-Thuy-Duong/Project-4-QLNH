@@ -492,6 +492,10 @@ int LoadSearchInfor()
 							good = tmp;
 							return 100;
 						}
+						else
+						{
+							goto Lai;
+						}
 					}
 				}
 				else if (GetAsyncKeyState(VK_DOWN)) //Phim xuong
